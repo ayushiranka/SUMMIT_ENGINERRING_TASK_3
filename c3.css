@@ -1,0 +1,77 @@
+body {
+    background-color: #555;
+    overflow: hidden;
+  }
+  h1 {
+    color: #fff;
+    text-align: center;
+  }
+  h3 {
+    color: #fff;
+    text-align: center;
+  }
+  #image0 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: rotate(0deg) translate(-50%, -50%);
+    width: 400px;
+    height: 250px;
+    background-image: url("https://lh3.googleusercontent.com/ETZmj9Nr9yWKHb-s3CywXFNgQKDy7u0cFRt3AS6ELknQ_5XHzdgeNWzh5Csz05sgc3RHtoBA6tdDdBjYa0qawlRar_AXEDC-dJSGyncFoDfqm_l0Ia23Yw10kno2DbwFerXtolcrEg=w2400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+  }
+  #image1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: rotate(0deg) translate(-100%, -100%);
+    width: 400px;
+    height: 250px;
+    background-image: url("https://lh3.googleusercontent.com/JtC6XsRckT6fbvW5N7TfDGAIZ_hxAPrYJ8ErglumcQph56F07vFX-0ue4EQbSixx92ei8uuEr2-gvghRYIGlkzgWF8FoV93EpOWGqRJPmD7GqiQL86iOPZjwauRhFQsXhUmtJ3uJDA=w2400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+  }
+  #image2 {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    transform: rotate(0deg) translate(+100%, -100%);
+    width: 400px;
+    height: 250px;
+    background-image: url("https://lh3.googleusercontent.com/5GCWHvlinDEGjJ4TtJZXz4bCHD9mC8Bs37neiH5RbopXUaokZh49KwH9mcUKU3-7rzWJcJ29xTdvoT84ws10oC8cJWgURZhKsUKU7nxoOyhjjHbrrN2qhHMw8w6FVkfbB4MF1tR_Kg=w2400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+  }
+  #image3 {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    transform: rotate(0deg) translate(-100%, +100%);
+    width: 400px;
+    height: 250px;
+    background-image: url("https://lh3.googleusercontent.com/Zfr2tXsK41MQCvYn04jl3OYGW4itYsve3SXUgwM5qTLQeYM6dvydxLwIf5KjvmeUBPTbwtGyyTlKvT07BFzXzcJzwRct6wD3FlB4ng4bs2C1kZuVLlb5QwsfMAVbYNtA1BYphDuVNw=w2400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+  }
+  #image4 {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    transform: rotate(0deg) translate(+100%, +100%);
+    width: 400px;
+    height: 250px;
+    background-image: url("https://lh3.googleusercontent.com/Kwg4CL7dj9JVwDOV6FEDR9HpZ4O5YceBfOWT7h4wJENRQ__2dwvkC8OMCgbvIgwvyoOn6V7p2Dy-LceWCxvdwhzd8X0vOkHoNO7zFYjt1fDEoucp-SdaNCetstTlp1AEDjblW7c66Q=w2400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+  }
